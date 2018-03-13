@@ -3,6 +3,7 @@ tests_require = [
     'mock',
     'nose',
     ]
+
 setup(
     name= 'sample',
     version= '1.3.0',
